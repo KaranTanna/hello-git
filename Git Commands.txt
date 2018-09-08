@@ -1,0 +1,8 @@
+Initialise Git- git init 
+Status of Git- git status
+Add Git- git add 
+Git commit- git commit 
+Git commit Message- git commit m"Version 1"
+Git add to remote repository- git remote add origin"https://github.com/KaranTanna/hellogit"
+Git push - git push- u origin master
+Git Help- git help 
